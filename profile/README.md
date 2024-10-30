@@ -27,12 +27,12 @@ Repositories located on the lower positions provides lower level and more atomic
 block-beta
   block:pkgs
   columns 2
-  gockpit["<a href='github.com/gockpit/gockpit'>gockpit</a>"]:2
-  filter["<a href='github.com/gockpit/go-filter'>go-filter</a>"]
-  conn["<a href='github.com/gockpit/go-conn'>go-conn</a>"]
-  net["<a href='github.com/gockpit/go-net'>go-net</a>"]:2
-  more["<a href='github.com/gockpit/go-more'>go-more</a>"]
-  ext["<a href='github.com/gockpit/go-ext'>go-ext</a>"]
+  gockpit["<a href='https://github.com/gockpit/gockpit' target='_blank'>gockpit</a>"]:2
+  filter["<a href='https://github.com/gockpit/go-filter' target='_blank'>go-filter</a>"]
+  conn["<a href='https://github.com/gockpit/go-conn' target='_blank'>go-conn</a>"]
+  net["<a href='https://github.com/gockpit/go-net' target='_blank'>go-net</a>"]:2
+  more["<a href='https://github.com/gockpit/go-more' target='_blank'>go-more</a>"]
+  ext["<a href='https://github.com/gockpit/go-ext' target='_blank'>go-ext</a>"]
   end
 ```
 
